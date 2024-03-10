@@ -1,0 +1,79 @@
+{
+  "leader": [
+    {
+      "name": "Kyaw Kyaw",
+      "age": 21,
+      "id": "1"
+    },
+    {
+      "name": "Zaw Zaw",
+      "age": 20,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Mg Mg"
+    },
+    {
+      "id": "a5e0",
+      "name": "Ba Ba"
+    },
+    {
+      "id": "0283",
+      "name": "Da Da"
+    }
+  ],
+  "role": [
+    {
+      "id": "1",
+      "position": "mid"
+    },
+    {
+      "id": "2",
+      "position": "carry"
+    },
+    {
+      "id": "3",
+      "position": "offlane"
+    },
+    {
+      "id": "6767",
+      "position": "support"
+    },
+    {
+      "id": "b95c",
+      "position": "support"
+    },
+    {
+      "id": "024f",
+      "position": "hard support"
+    },
+    {
+      "position": "co-coach",
+      "exp": "over 3years",
+      "id": "3c3d"
+    }
+  ],
+  "rank": [
+    {
+      "id": "1",
+      "ranking": "immortal"
+    },
+    {
+      "id": "2",
+      "ranking": "divine"
+    },
+    {
+      "id": "3",
+      "ranking": "ancient"
+    },
+    {
+      "id": "caf9",
+      "ranking": "immortal"
+    },
+    {
+      "ranking": "acient",
+      "id": "cf78"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+@import './node_modules/sweetalert2/dist/sweetalert2.min.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.spinner{
+    /* @apply block border-2 border-blue-100 w-4 h-4 rounded-full border-l-blue-300 animate-spin */
+}
